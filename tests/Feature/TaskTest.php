@@ -9,12 +9,6 @@ use Carbon\Carbon;
 
 class TaskTest extends TestCase
 {
-    // public function setUp(): void
-    // {
-    //     parent::setUp();
-    //     $this->seed('FoldersTableSeeder');
-    // }
-
     public function testSum()
     {
         $result = 2 + 2;
